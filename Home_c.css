@@ -1,0 +1,168 @@
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    float: right;
+    
+  }
+  .back
+  {
+    width: 100%;
+    background-color: rgb(14, 14, 121);
+    padding: 10px;
+    height: 60px;
+  }
+  
+  .dropbtn {
+    background-color: rgb(14, 14, 121);
+    color: white;
+     margin-right: 50px;
+     margin-top: 10px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    
+  }
+   
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown:hover .dropdown-content 
+  {
+    background-color: rgb(15, 225, 225);
+    display: block;
+  }
+  .image
+ {
+	height: 60px;
+	margin-left: 20px;
+	margin-top: -7px;
+
+ }
+ .dropdown {
+    position: relative;
+    display: inline-block;
+    float: right;
+    
+  }
+  .back
+  {
+    width: 100%;
+    background-color: rgb(14, 14, 121);
+    padding: 10px;
+    height: 60px;
+  }
+  
+  .dropbtn {
+    background-color: rgb(14, 14, 121);
+    color: white;
+     margin-right: 50px;
+     margin-top: 10px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    
+  }
+   
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown:hover .dropdown-content 
+  {
+    background-color: lightcyan;
+    display: block;
+  }
+  .image
+ {
+	height: 60px;
+	margin-left: 20px;
+	margin-top: -7px;
+
+ }
+  
+
+.about{
+	background-color: bisque;
+}
+h1
+{
+font-size: 50px;
+background-color: #b6f689;
+width:100%;
+height: 0px;
+}
+
+
+h2{
+	font-size: 40px;
+	text-align: center;
+	text-decoration: underline;
+	color:firebrick;
+	}
+.neonText {
+	color: #8e0808;
+	text-shadow:
+		0 0 7px #fff,
+		0 0 10px #fff,
+		0 0 21px #fff,
+		0 0 42px #0fa,
+		0 0 82px #0fa,
+		0 0 92px #0fa,
+		0 0 102px #0fa,
+		0 0 151px #0fa;
+  }
+p{
+	text-align: justify;
+	font-size: 22px;
+	
+}
+.welcome {
+		position:fixed;
+		color:red;
+		text-shadow:
+			0 0 7px #3492e3,
+			0 0 10px #fff,
+			0 0 21px #fff,
+			0 0 42px rgb(235, 66, 182),
+			0 0 82px #0fa,
+			0 0 92px rgb(212, 255, 0),
+			0 0 102px #0fa,
+			0 0 151px #0fa;
+		
+}
+	  
+	  
+	
+			
